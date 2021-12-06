@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "Vikram Goyal, PhD",
+    "occupation": "Professor @IIITD (June 2020 - Present)",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "vikram-web.jpg",
+    "bio": "I am a faculty in IIIT-Delhi. I received my Ph.D. in Computer Science and Engineering from the Department of Computer Science and Engineering at IIT Delhi in 2009. Before pursuing Ph.D., I completed my M.Tech. in Information Systems from the Department of Computer Science and Engineering at NSIT Delhi in 2003. I have many publications in reputed conferences and referred journals. I have a couple of Projects from DST, India and Deity, India on problems related to Privacy in Location-based Services and Digitized Document Fraud Detection, respectively.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "vikram@iiitd.ac.in",
+    "phone": "011-26907474",
+    "address": {
+      "street": "Okhla Industrial Estate, Phase III",
+      "city": "New Delhi",
+      "state": "Delhi, India",
+      "zip": "110020"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vikram-goyal-7a684213/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Following are the names of the students who have graduated or are working from/in my lab.",
+    "education": [
+      {
+        "school": "IIT Delhi",
+        "degree": "Ph.D Computer Science",
+        "graduated": "2009",
+        "description": " My thesis was on \"Auditing SQL Queries for Privacy Violation Detection.\""
+      },
+      {
+        "school": "NSIT Delhi",
+        "degree": "MTech",
+        "graduated": "2003",
+        "description": "Completed my MTech in information systems."
+      }
+    ],
+    "publications": [
+     {
+        "publication":"placeholder"
+      }, 
+      {
+        "publication":"placeholder"
+      }, 
+      {
+        "publication":"placeholder"
+      }
+    ],
+    "teachings": [
+      {
+         "title":"placeholder"
+       }, 
+       {
+         "title":"placeholder"
+       }, 
+       {
+         "title":"placeholder"
+       }
+     ],
+    "work": [
+      {
+        "company": "Indraprastha Institute of Information Technology, Delhi (IIIT-D)",
+        "title": "Professor",
+        "years": "July, 2020 - Present",
+        "description": "My research interests are in the areas of Data Mining, Big Data Analytics, Data Privacy, and Information Security."
+      },
+      {
+        "company": "Indraprastha Institute of Information Technology, Delhi (IIIT-D)",
+        "title": "Associate Professor",
+        "years": "July, 2015 - June 30, 2020"
+      },
+      {
+        "company": "Indraprastha Institute of Information Technology, Delhi (IIIT-D)",
+        "title": "Assistant Professor",
+        "years": "October, 2008 - July, 2015"
+      }
+    ],
+    "students": [
+      {
+        "name": "Anuj Shanker Saxena (Graduated)",
+        "topic":"Enforcing Privacy for Location Based Services"
+      },
+      {
+        "name": "Siddharth Dawar (Graduated)",
+        "topic": "Mining high-utility itemsets from a transaction database"
+      },
+      {
+        "name": "Swati Agarwal (Graduated)",
+        "topic": "Open source social media as sensors for enabling government identification, prediction and response applications "
+      },
+
+      {
+        "name": "Srikanth Baride",
+        "topic": "Scalable Algorithm for High-Utility Subgraph Pattern Mining over Big Data Platforms"
+      },
+      {
+        "name": "Ramneek Kaur",
+        "topic": "Spatiotemporal Computing"
+      },
+      {
+        "name": "Akshit Jindal",
+        "topic": "Unlearning"
+      },
+      {
+        "name": "Saif Ayan Khan",
+        "topic": "AI-enabled social counseling system based on Emotion-Focused Therapy"
+      },
+      {
+        "name": "Sarah Masud",
+        "topic": "Hate Speech diffusion in Social Media"
+      },
+      {
+        "name": "Yash Kumar Atri",
+        "topic": "Document Summarization"
+      },
+      {
+        "name": "Rajat Agarwal",
+        "topic": "Automated Answer Evaluation in Online Learning Assessments"
+      },
+      {
+        "name": "Venktesh V",
+        "topic": "Automated Pipelines for Learning Content Curation and Linking in Online Learning Platforms"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
