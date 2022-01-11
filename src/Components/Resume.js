@@ -18,11 +18,13 @@ class Resume extends Component {
       })
       var skills = this.props.data.students.map(function(student){
         // var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={student.name}><em>{student.name}</em> <br/><em className="info">Topic: {student.topic}</em></li>
+        return <li key={student.name}><em>{student.name}</em><div className="information">Topic: {student.topic}</div></li>
       })
       var publication = this.props.data.publications.map(function(publication){
         // var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={publication.publication}><em>{publication.publication}</em></li>
+        return <li className="skills publications" key={publication.publication}><em>{publication.publication}</em><div className="information"><b>Authors:</b> {publication.authors} <span><a href={publication.link}> Paper Link</a></span></div>
+        <div className="conference">{publication.conference}</div>
+        </li>
       })
       var teaching = this.props.data.teachings.map(function(teaching){
         // var className = 'bar-expand '+skills.name.toLowerCase();
@@ -59,7 +61,7 @@ class Resume extends Component {
         </div>
     </div>
 
-    <div className="row education">
+    <div className="bars">
          <div className="three columns header-col">
             <h1><span>Publications</span></h1>
          </div>

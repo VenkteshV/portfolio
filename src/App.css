@@ -1,0 +1,11 @@
+.information {
+    margin-top:-23px;
+}
+.publications {
+    height: 142px !important;
+}
+
+.conference {
+    font: 12px 'opensans-bold', sans-serif;
+    color: #313131;
+}
